@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E118796,C111232,Inicial,Cristopher Torrecillas Hernández,"",MX,"","","","","","","","","",tohecris98@gmail.com,"","","","","","",""
 E118797,C111233,Inicial,Angelica Maria Zavala Mercado,"",MX,"","","","","","","","","",azavalamercado@gmail.com,"","","","","","",""
 E118798,C111234,Inicial,Salvador Alberto Itza Cahuich,"",MX,"","","","","","","","","",alfredo_94c@hotmail.com,"","","","","","",""

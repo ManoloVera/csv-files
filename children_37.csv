@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E216595,C192402,Inicial,Kevin Uriel Garcia,"",MX,"","","","","","","","","",electrocentertlajo1@gmail.com,"","","","","","",""
 E216597,C192403,Inicial,Lizbet Ortega Millán,"",MX,"","","","","","","","","",lizbetemir@gmail.com,"","","","","","",""
 E216599,C192404,Inicial,María Angélica Becerra Saldívar,"",MX,"","","","","","","","","",diana.perezbecerra@hotmail.com,"","","","","","",""
