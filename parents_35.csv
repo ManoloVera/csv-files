@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 C211190,"",Inicial,Daniela Amairani Haley Lopez,"",MX,"","","","","","","","","","","","","","","","",""
 C211192,"",Inicial,Miguel ángel Verdín Campos,"",MX,"","","","","","","","","","","","","","","","",""
 C211193,"",Inicial,Tomas Oderto Rodriguez,"",USA,"","","","","","","","","","","","","","","","",""
