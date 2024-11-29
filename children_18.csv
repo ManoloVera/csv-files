@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E82153,C75757,Inicial,Fernando Martinez,"",MX,"","","","","","","","","",ca54martinez@gmail.com,"","","","","","",""
 E82155,C75759,Inicial,Licencia Temporal,"",MX,"","","","","","","","","",vladicar10@gmail.com,"","","","","","",""
 E82156,C75760,Inicial,Ivan Cuatepitzi Hernandez,"",MX,"","","","","","","","","",iranmichel.saucedo@upaep.edu.mx,"","","","","","",""

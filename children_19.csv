@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E87985,C81495,Inicial,Jose Luis Morales Gordillo,"",MX,"","","","","","","","","",jlmorgo@live.com.mx,"","","","","","",""
 E87986,C81496,Inicial,Mauricio Méndez García,"",MX,"","","","","","","","","",mauma-5429@hotmail.com,"","","","","","",""
 E87987,C81497,Inicial,Erick Norberto Nolasco Rojas,"",MX,"","","","","","","","","",eslaifer_17@hotmail.com,"","","","","","",""
