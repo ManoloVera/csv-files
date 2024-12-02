@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 C198403,"",Inicial,Leste Noe Vazquez Luna,"",México,"","","","","","","","","","","","VALL920131QK1
 RFCs: 1, Emails: 1","","","","",""
 C198404,"",Inicial,Benjamin Enoc Lorca Carvacho,"",México,"","","","","","","","","","","","
