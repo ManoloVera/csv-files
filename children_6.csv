@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E21875,C17292,Inicial,Max Luna,"",México,"","","","","","","","",colosofacturas@hotmail.com,"","","","","","","",""
 E21876,C17293,Inicial,Ismael Maldonado,"",México,"","","","","","","","",iiungooficial1@gmail.com,"","","","","","","",""
 E21877,C17294,Inicial,Juan Carlos Campos Alvarez,"",México,"","","","","","","","",juancarlos.campos@gmail.com,"","","","","","","",""
