@@ -1,4 +1,4 @@
-bambu_id,parent_id,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E197022,C175740,Inicial,Jesús Salvador González Perales,"",México,"","","","","","","","",jesustutorialx@gmail.com,"","","","","","","",""
 E197024,C175742,Inicial,Na Na,"",Unknown,"","","","","","","","",whatsapp+59897865347@bambucode.com,"","","","","","","",""
 E197025,C175743,Inicial,Fernando Hernandez,"",México,"","","","","","","","",fernandogomezhg30@gmail.com,"","","","","","","",""
