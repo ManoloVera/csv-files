@@ -1,4 +1,4 @@
-bambuid,parent,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
+bambuid,parent_bambuid,origin,name,title,country_id,state_id,vat,website,function,street,street2,zip,city,email,phone,mobile,comment,street_name,street_number,street_number2,l10n_mx_edi_colony,l10n_mx_edi_curp
 E49888,C43743,Inicial,Na Na,,México,,,,,,,,,eve30510@hotmail.com,,,,,,,,
 E49889,C43744,Inicial,Amalia Margarita Rojas Alpizar,,México,,,,,,,,,papeleria_las_americas@yahoo.com.mx,,,,,,,,
 E49890,C43745,Inicial,Na Na,,México,,,,,,,,,mascotas.consentidas@hotmail.com,,,,,,,,
